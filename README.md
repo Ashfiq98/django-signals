@@ -1,7 +1,7 @@
 # Django Signals
 ## Project Overview
 
-The task is to log user activity in a Django application by using Django signals. Specifically, you need to create a mechanism to automatically record a log entry every time a model instance is saved (either created or updated).
+This project is about to log user activity in a Django application by using Django signals. Specifically, you need to create a mechanism to automatically record a log entry every time a model instance is saved (either created or updated).
  - <a href = "https://docs.google.com/presentation/d/1tuQKdGpP3Ymv49StXabv9B1ZCJ0MAkWmWmRzX4dksCg/edit?usp=sharing "> Presentation Slide </a>
 
 ## Key Features
