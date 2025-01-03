@@ -62,3 +62,5 @@ python manage.py runserver
 - When we create a new instance of the tracked model (MyModel), a log     
   entry is automatically added to the LogEntry model, indicating the instance was created. 
   When we update an existing instance of the tracked model, a log entry is added indicating the instance was updated. 
+## Here you can see the presentation of this project : 
+<a href = "https://docs.google.com/presentation/d/1tuQKdGpP3Ymv49StXabv9B1ZCJ0MAkWmWmRzX4dksCg/edit?usp=sharing "> Presentation Slide </a>
