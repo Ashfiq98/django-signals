@@ -2,6 +2,7 @@
 ## Project Overview
 
 The task is to log user activity in a Django application by using Django signals. Specifically, you need to create a mechanism to automatically record a log entry every time a model instance is saved (either created or updated).
+<a href = "https://docs.google.com/presentation/d/1tuQKdGpP3Ymv49StXabv9B1ZCJ0MAkWmWmRzX4dksCg/edit?usp=sharing "> Presentation Slide </a>
 
 ## Key Features
 
@@ -62,5 +63,4 @@ python manage.py runserver
 - When we create a new instance of the tracked model (MyModel), a log     
   entry is automatically added to the LogEntry model, indicating the instance was created. 
   When we update an existing instance of the tracked model, a log entry is added indicating the instance was updated. 
-## Here you can see the presentation of this project : 
-<a href = "https://docs.google.com/presentation/d/1tuQKdGpP3Ymv49StXabv9B1ZCJ0MAkWmWmRzX4dksCg/edit?usp=sharing "> Presentation Slide </a>
+
